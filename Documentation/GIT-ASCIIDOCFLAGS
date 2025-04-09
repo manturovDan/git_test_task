@@ -1,0 +1,1 @@
+asciidoc  -abuild_dir='/Users/Danila.Manturov/source/git/Documentation' -f asciidoc.conf:xhtml11:docbook

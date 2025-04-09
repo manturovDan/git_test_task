@@ -17,6 +17,7 @@
 #define initgroups(x, y) (0) /* nothing */
 #endif
 
+// some changed credentials file
 static int log_syslog;
 static int verbose;
 static int reuseaddr;

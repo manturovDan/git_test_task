@@ -1,0 +1,8 @@
+#ifndef VERSION_DEF_H
+#define VERSION_DEF_H
+
+#define GIT_VERSION "2.38.1.7517.gff795a5c5e"
+#define GIT_BUILT_FROM_COMMIT "ff795a5c5ed2e2d07c688c217a615d89e3f5733b"
+#define GIT_USER_AGENT "git/2.38.1.7517.gff795a5c5e"
+
+#endif /* VERSION_DEF_H */

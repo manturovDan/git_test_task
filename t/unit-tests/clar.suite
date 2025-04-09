@@ -1,0 +1,106 @@
+extern void test_ctype__isspace(void);
+extern void test_ctype__isdigit(void);
+extern void test_ctype__isalpha(void);
+extern void test_ctype__isalnum(void);
+extern void test_ctype__is_glob_special(void);
+extern void test_ctype__is_regex_special(void);
+extern void test_ctype__is_pathspec_magic(void);
+extern void test_ctype__isascii(void);
+extern void test_ctype__islower(void);
+extern void test_ctype__isupper(void);
+extern void test_ctype__iscntrl(void);
+extern void test_ctype__ispunct(void);
+extern void test_ctype__isxdigit(void);
+extern void test_ctype__isprint(void);
+extern void test_strvec__init(void);
+extern void test_strvec__dynamic_init(void);
+extern void test_strvec__clear(void);
+extern void test_strvec__push(void);
+extern void test_strvec__pushf(void);
+extern void test_strvec__pushl(void);
+extern void test_strvec__pushv(void);
+extern void test_strvec__splice_just_initialized_strvec(void);
+extern void test_strvec__splice_with_same_size_replacement(void);
+extern void test_strvec__splice_with_smaller_replacement(void);
+extern void test_strvec__splice_with_bigger_replacement(void);
+extern void test_strvec__splice_with_empty_replacement(void);
+extern void test_strvec__splice_with_empty_original(void);
+extern void test_strvec__splice_at_tail(void);
+extern void test_strvec__replace_at_head(void);
+extern void test_strvec__replace_at_tail(void);
+extern void test_strvec__replace_in_between(void);
+extern void test_strvec__replace_with_substring(void);
+extern void test_strvec__remove_at_head(void);
+extern void test_strvec__remove_at_tail(void);
+extern void test_strvec__remove_in_between(void);
+extern void test_strvec__pop_empty_array(void);
+extern void test_strvec__pop_non_empty_array(void);
+extern void test_strvec__split_empty_string(void);
+extern void test_strvec__split_single_item(void);
+extern void test_strvec__split_multiple_items(void);
+extern void test_strvec__split_whitespace_only(void);
+extern void test_strvec__split_multiple_consecutive_whitespaces(void);
+extern void test_strvec__detach(void);
+static const struct clar_func _clar_cb_ctype[] = {
+    { "isspace", &test_ctype__isspace },
+    { "isdigit", &test_ctype__isdigit },
+    { "isalpha", &test_ctype__isalpha },
+    { "isalnum", &test_ctype__isalnum },
+    { "is_glob_special", &test_ctype__is_glob_special },
+    { "is_regex_special", &test_ctype__is_regex_special },
+    { "is_pathspec_magic", &test_ctype__is_pathspec_magic },
+    { "isascii", &test_ctype__isascii },
+    { "islower", &test_ctype__islower },
+    { "isupper", &test_ctype__isupper },
+    { "iscntrl", &test_ctype__iscntrl },
+    { "ispunct", &test_ctype__ispunct },
+    { "isxdigit", &test_ctype__isxdigit },
+    { "isprint", &test_ctype__isprint },
+};
+static const struct clar_func _clar_cb_strvec[] = {
+    { "init", &test_strvec__init },
+    { "dynamic_init", &test_strvec__dynamic_init },
+    { "clear", &test_strvec__clear },
+    { "push", &test_strvec__push },
+    { "pushf", &test_strvec__pushf },
+    { "pushl", &test_strvec__pushl },
+    { "pushv", &test_strvec__pushv },
+    { "splice_just_initialized_strvec", &test_strvec__splice_just_initialized_strvec },
+    { "splice_with_same_size_replacement", &test_strvec__splice_with_same_size_replacement },
+    { "splice_with_smaller_replacement", &test_strvec__splice_with_smaller_replacement },
+    { "splice_with_bigger_replacement", &test_strvec__splice_with_bigger_replacement },
+    { "splice_with_empty_replacement", &test_strvec__splice_with_empty_replacement },
+    { "splice_with_empty_original", &test_strvec__splice_with_empty_original },
+    { "splice_at_tail", &test_strvec__splice_at_tail },
+    { "replace_at_head", &test_strvec__replace_at_head },
+    { "replace_at_tail", &test_strvec__replace_at_tail },
+    { "replace_in_between", &test_strvec__replace_in_between },
+    { "replace_with_substring", &test_strvec__replace_with_substring },
+    { "remove_at_head", &test_strvec__remove_at_head },
+    { "remove_at_tail", &test_strvec__remove_at_tail },
+    { "remove_in_between", &test_strvec__remove_in_between },
+    { "pop_empty_array", &test_strvec__pop_empty_array },
+    { "pop_non_empty_array", &test_strvec__pop_non_empty_array },
+    { "split_empty_string", &test_strvec__split_empty_string },
+    { "split_single_item", &test_strvec__split_single_item },
+    { "split_multiple_items", &test_strvec__split_multiple_items },
+    { "split_whitespace_only", &test_strvec__split_whitespace_only },
+    { "split_multiple_consecutive_whitespaces", &test_strvec__split_multiple_consecutive_whitespaces },
+    { "detach", &test_strvec__detach },
+};
+static struct clar_suite _clar_suites[] = {
+    {
+        "ctype",
+        { NULL, NULL },
+        { NULL, NULL },
+        _clar_cb_ctype, 14, 1
+    },
+    {
+        "strvec",
+        { NULL, NULL },
+        { NULL, NULL },
+        _clar_cb_strvec, 29, 1
+    },
+};
+static const size_t _clar_suite_count = 2;
+static const size_t _clar_callback_count = 43;
