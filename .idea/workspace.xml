@@ -1,0 +1,2126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="git" targetName="git-mv" />
+      <config projectName="git" targetName="git-reflog" />
+      <config projectName="git" targetName="git-shortlog" />
+      <config projectName="git" targetName="GIT-VERSION-FILE" />
+      <config projectName="git" targetName="git-help" />
+      <config projectName="git" targetName="git-request-pull" />
+      <config projectName="git" targetName="git-verify-commit" />
+      <config projectName="git" targetName="git-write-tree" />
+      <config projectName="git" targetName="git-svn" />
+      <config projectName="git" targetName="git-blame" />
+      <config projectName="git" targetName="git-replay" />
+      <config projectName="git" targetName="GIT-CFLAGS" />
+      <config projectName="git" targetName="git-difftool--helper" />
+      <config projectName="git" targetName="git-checkout" />
+      <config projectName="git" targetName="GIT-BUILD-OPTIONS" />
+      <config projectName="git" targetName="git-upload-archive" />
+      <config projectName="git" targetName="profile-fast" />
+      <config projectName="git" targetName="test-objs" />
+      <config projectName="git" targetName="git-revert" />
+      <config projectName="git" targetName="git-http-push" />
+      <config projectName="git" targetName="git-merge-file" />
+      <config projectName="git" targetName="coccicheck-pending" />
+      <config projectName="git" targetName="git-range-diff" />
+      <config projectName="git" targetName="all" />
+      <config projectName="git" targetName="git-count-objects" />
+      <config projectName="git" targetName="GIT-PYTHON-VARS" />
+      <config projectName="git" targetName="git-pack-refs" />
+      <config projectName="git" targetName="git-diagnose" />
+      <config projectName="git" targetName="sparse" />
+      <config projectName="git" targetName="dist" />
+      <config projectName="git" targetName="git-checkout-index" />
+      <config projectName="git" targetName="git-init" />
+      <config projectName="git" targetName="git-merge-one-file" />
+      <config projectName="git" targetName="clean-sh-script" />
+      <config projectName="git" targetName="headless-git" />
+      <config projectName="git" targetName="git-show-ref" />
+      <config projectName="git" targetName="git-merge-tree" />
+      <config projectName="git" targetName="profile-fast-install" />
+      <config projectName="git" targetName="git-diff-files" />
+      <config projectName="git" targetName="git-bisect" />
+      <config projectName="git" targetName="git-mergetool" />
+      <config projectName="git" targetName="scalar" />
+      <config projectName="git" targetName="git-remote-http" />
+      <config projectName="git" targetName="git-shell" />
+      <config projectName="git" targetName="cover_db_html" />
+      <config projectName="git" targetName="git-annotate" />
+      <config projectName="git" targetName="git-show" />
+      <config projectName="git" targetName="git-cvsimport" />
+      <config projectName="git" targetName="git-ls-remote" />
+      <config projectName="git" targetName="git-diff-pairs" />
+      <config projectName="git" targetName="GIT-SCRIPT-DEFINES" />
+      <config projectName="git" targetName="git-credential-cache--daemon" />
+      <config projectName="git" targetName="git-ls-tree" />
+      <config projectName="git" targetName="rpm" />
+      <config projectName="git" targetName="git-ls-files" />
+      <config projectName="git" targetName="git" />
+      <config projectName="git" targetName="po-init" />
+      <config projectName="git" targetName="profile-install" />
+      <config projectName="git" targetName="git-send-email" />
+      <config projectName="git" targetName="coverage-test" />
+      <config projectName="git" targetName="html" />
+      <config projectName="git" targetName="install-man-perl" />
+      <config projectName="git" targetName="coverage-prove" />
+      <config projectName="git" targetName="git-hook" />
+      <config projectName="git" targetName="git-remote-fd" />
+      <config projectName="git" targetName="fuzz-objs" />
+      <config projectName="git" targetName="git-push" />
+      <config projectName="git" targetName="git-instaweb" />
+      <config projectName="git" targetName="clean-python-script" />
+      <config projectName="git" targetName="git-remote-ftp" />
+      <config projectName="git" targetName="git-show-branch" />
+      <config projectName="git" targetName="git-bugreport" />
+      <config projectName="git" targetName="git-unpack-file" />
+      <config projectName="git" targetName="Makefile" />
+      <config projectName="git" targetName="coverage-compile" />
+      <config projectName="git" targetName="cocciclean" />
+      <config projectName="git" targetName="artifacts-tar" />
+      <config projectName="git" targetName="git-merge" />
+      <config projectName="git" targetName="git-grep" />
+      <config projectName="git" targetName="git-cherry-pick" />
+      <config projectName="git" targetName="git-format-patch" />
+      <config projectName="git" targetName="git-fetch" />
+      <config projectName="git" targetName="git-upload-pack" />
+      <config projectName="git" targetName="install-perl-script" />
+      <config projectName="git" targetName="git-pack-objects" />
+      <config projectName="git" targetName="gitweb-clean" />
+      <config projectName="git" targetName="check" />
+      <config projectName="git" targetName="git-describe" />
+      <config projectName="git" targetName="style" />
+      <config projectName="git" targetName="git-reset" />
+      <config projectName="git" targetName="git-hash-object" />
+      <config projectName="git" targetName="git-version" />
+      <config projectName="git" targetName="git-cvsexportcommit" />
+      <config projectName="git" targetName="git-cat-file" />
+      <config projectName="git" targetName="install-info" />
+      <config projectName="git" targetName="shell_compatibility_test" />
+      <config projectName="git" targetName="git-switch" />
+      <config projectName="git" targetName="git-verify-tag" />
+      <config projectName="git" targetName="scalar-objs" />
+      <config projectName="git" targetName="GIT-PERL-DEFINES" />
+      <config projectName="git" targetName="GIT-LDFLAGS" />
+      <config projectName="git" targetName="git-submodule" />
+      <config projectName="git" targetName="git-symbolic-ref" />
+      <config projectName="git" targetName="GIT-SPATCH-DEFINES" />
+      <config projectName="git" targetName="git-fetch-pack" />
+      <config projectName="git" targetName="GIT-USER-AGENT" />
+      <config projectName="git" targetName="objects" />
+      <config projectName="git" targetName="quick-install-html" />
+      <config projectName="git" targetName="git-check-mailmap" />
+      <config projectName="git" targetName="git-backfill" />
+      <config projectName="git" targetName="git-prune" />
+      <config projectName="git" targetName="check-docs" />
+      <config projectName="git" targetName="TAGS" />
+      <config projectName="git" targetName="install-sh-script" />
+      <config projectName="git" targetName="git-gc" />
+      <config projectName="git" targetName="install" />
+      <config projectName="git" targetName="git-rebase" />
+      <config projectName="git" targetName="git-merge-recursive" />
+      <config projectName="git" targetName="tags" />
+      <config projectName="git" targetName="git-add" />
+      <config projectName="git" targetName="git-archimport" />
+      <config projectName="git" targetName="git-interpret-trailers" />
+      <config projectName="git" targetName="git-receive-pack" />
+      <config projectName="git" targetName="GIT-PREFIX" />
+      <config projectName="git" targetName="pot" />
+      <config projectName="git" targetName="profile-clean" />
+      <config projectName="git" targetName="libgit.a" />
+      <config projectName="git" targetName="perllibdir" />
+      <config projectName="git" targetName="git-merge-index" />
+      <config projectName="git" targetName="git-replace" />
+      <config projectName="git" targetName="git-commit-tree" />
+      <config projectName="git" targetName="build-sh-script" />
+      <config projectName="git" targetName="libgit-rs" />
+      <config projectName="git" targetName="git-name-rev" />
+      <config projectName="git" targetName="git-notes" />
+      <config projectName="git" targetName="coverage-clean-results" />
+      <config projectName="git" targetName="git-merge-resolve" />
+      <config projectName="git" targetName="git-stage" />
+      <config projectName="git" targetName="git-repack" />
+      <config projectName="git" targetName="git-stripspace" />
+      <config projectName="git" targetName="git-credential-cache" />
+      <config projectName="git" targetName="git-refs" />
+      <config projectName="git" targetName="FORCE" />
+      <config projectName="git" targetName="git-pull" />
+      <config projectName="git" targetName="git-mergetool--lib" />
+      <config projectName="git" targetName="program-objs" />
+      <config projectName="git" targetName="libgit-sys" />
+      <config projectName="git" targetName="git-sparse-checkout" />
+      <config projectName="git" targetName="git-checkout--worker" />
+      <config projectName="git" targetName="git-cvsserver" />
+      <config projectName="git" targetName="git-clean" />
+      <config projectName="git" targetName="git-difftool" />
+      <config projectName="git" targetName="git-for-each-repo" />
+      <config projectName="git" targetName="git-for-each-ref" />
+      <config projectName="git" targetName="perf" />
+      <config projectName="git" targetName="GIT-PERL-HEADER" />
+      <config projectName="git" targetName="unit-tests" />
+      <config projectName="git" targetName="xdiff-objs" />
+      <config projectName="git" targetName="git-web--browse" />
+      <config projectName="git" targetName="git-daemon" />
+      <config projectName="git" targetName="hdr-check" />
+      <config projectName="git" targetName="clean-perl-script" />
+      <config projectName="git" targetName="coccicheck-test" />
+      <config projectName="git" targetName="git-objs" />
+      <config projectName="git" targetName="strip" />
+      <config projectName="git" targetName="git-pack-redundant" />
+      <config projectName="git" targetName="build-perl-script" />
+      <config projectName="git" targetName="man-perl" />
+      <config projectName="git" targetName="git-log" />
+      <config projectName="git" targetName="gitweb" />
+      <config projectName="git" targetName="coccicheck" />
+      <config projectName="git" targetName="git-cherry" />
+      <config projectName="git" targetName="cover_db" />
+      <config projectName="git" targetName="git-filter-branch" />
+      <config projectName="git" targetName="git-whatchanged" />
+      <config projectName="git" targetName="git-fsck-objects" />
+      <config projectName="git" targetName="git-fsmonitor--daemon" />
+      <config projectName="git" targetName="pdf" />
+      <config projectName="git" targetName="git-send-pack" />
+      <config projectName="git" targetName="generated-hdrs" />
+      <config projectName="git" targetName="git-restore" />
+      <config projectName="git" targetName="coverage-report" />
+      <config projectName="git" targetName="git-fast-export" />
+      <config projectName="git" targetName="git-diff" />
+      <config projectName="git" targetName="git-sh-i18n--envsubst" />
+      <config projectName="git" targetName="git-show-index" />
+      <config projectName="git" targetName="git-bundle" />
+      <config projectName="git" targetName="test" />
+      <config projectName="git" targetName="git-archive" />
+      <config projectName="git" targetName="git-prune-packed" />
+      <config projectName="git" targetName="configure" />
+      <config projectName="git" targetName="git-remote-https" />
+      <config projectName="git" targetName="git-mktree" />
+      <config projectName="git" targetName="please_set_SHELL_PATH_to_a_more_modern_shell" />
+      <config projectName="git" targetName="git-var" />
+      <config projectName="git" targetName="coverage" />
+      <config projectName="git" targetName="git-http-fetch" />
+      <config projectName="git" targetName="check-builtins" />
+      <config projectName="git" targetName="git-sh-i18n" />
+      <config projectName="git" targetName="install-man" />
+      <config projectName="git" targetName="git-merge-ours" />
+      <config projectName="git" targetName="git-rm" />
+      <config projectName="git" targetName="git-submodule--helper" />
+      <config projectName="git" targetName="git-diff-tree" />
+      <config projectName="git" targetName="git-rev-list" />
+      <config projectName="git" targetName="info" />
+      <config projectName="git" targetName="git-credential" />
+      <config projectName="git" targetName="install-python-script" />
+      <config projectName="git" targetName="git-diff-index" />
+      <config projectName="git" targetName="git-am" />
+      <config projectName="git" targetName="git-config" />
+      <config projectName="git" targetName="git-merge-base" />
+      <config projectName="git" targetName="git-merge-octopus" />
+      <config projectName="git" targetName="git-get-tar-commit-id" />
+      <config projectName="git" targetName="GIT-VERSION-GEN" />
+      <config projectName="git" targetName="fuzz-all" />
+      <config projectName="git" targetName="git-mktag" />
+      <config projectName="git" targetName="coverage-untested-functions" />
+      <config projectName="git" targetName="reconfigure" />
+      <config projectName="git" targetName="git-commit" />
+      <config projectName="git" targetName="git-column" />
+      <config projectName="git" targetName="check-sha1" />
+      <config projectName="git" targetName="git-stash" />
+      <config projectName="git" targetName="git-branch" />
+      <config projectName="git" targetName="git-http-backend" />
+      <config projectName="git" targetName="git-remote" />
+      <config projectName="git" targetName="install-doc" />
+      <config projectName="git" targetName="git-multi-pack-index" />
+      <config projectName="git" targetName="doc" />
+      <config projectName="git" targetName="git-read-tree" />
+      <config projectName="git" targetName="distclean" />
+      <config projectName="git" targetName="git-credential-store" />
+      <config projectName="git" targetName="cscope" />
+      <config projectName="git" targetName="git-apply" />
+      <config projectName="git" targetName="git-remote-ftps" />
+      <config projectName="git" targetName="check-pot" />
+      <config projectName="git" targetName="build-python-script" />
+      <config projectName="git" targetName="git-status" />
+      <config projectName="git" targetName="profile" />
+      <config projectName="git" targetName="git-fsck" />
+      <config projectName="git" targetName="git-unpack-objects" />
+      <config projectName="git" targetName="install-html" />
+      <config projectName="git" targetName="git-update-server-info" />
+      <config projectName="git" targetName="git-merge-subtree" />
+      <config projectName="git" targetName="git-update-index" />
+      <config projectName="git" targetName="git-quiltimport" />
+      <config projectName="git" targetName="dist-doc" />
+      <config projectName="git" targetName="git-fast-import" />
+      <config projectName="git" targetName="git-remote-ext" />
+      <config projectName="git" targetName="vcxproj" />
+      <config projectName="git" targetName="GIT-TEST-SUITES" />
+      <config projectName="git" targetName="git-imap-send" />
+      <config projectName="git" targetName="git-rerere" />
+      <config projectName="git" targetName="git-commit-graph" />
+      <config projectName="git" targetName="git-init-db" />
+      <config projectName="git" targetName="git-verify-pack" />
+      <config projectName="git" targetName="git-clone" />
+      <config projectName="git" targetName="git-check-ref-format" />
+      <config projectName="git" targetName="install-pdf" />
+      <config projectName="git" targetName="git-sh-setup" />
+      <config projectName="git" targetName="git-fmt-merge-msg" />
+      <config projectName="git" targetName="git-worktree" />
+      <config projectName="git" targetName="git-patch-id" />
+      <config projectName="git" targetName="git-check-ignore" />
+      <config projectName="git" targetName="git-mailinfo" />
+      <config projectName="git" targetName="git-rev-parse" />
+      <config projectName="git" targetName="quick-install-doc" />
+      <config projectName="git" targetName="git-index-pack" />
+      <config projectName="git" targetName="install-gitweb" />
+      <config projectName="git" targetName="build-unit-tests" />
+      <config projectName="git" targetName="coverage-clean" />
+      <config projectName="git" targetName="git-mailsplit" />
+      <config projectName="git" targetName="git-check-attr" />
+      <config projectName="git" targetName="git-maintenance" />
+      <config projectName="git" targetName="po-update" />
+      <config projectName="git" targetName="man" />
+      <config projectName="git" targetName="git-tag" />
+      <config projectName="git" targetName="git-p4" />
+      <config projectName="git" targetName="quick-install-man" />
+      <config projectName="git" targetName="git-update-ref" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d38f63e4-c49a-46b1-a8bf-f1a9228b595c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="git" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="git" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="MakefilesProjectLoadingState">
+    <option name="doClean" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3" />
+  </component>
+  <component name="ProjectId" id="2IrpoHtAg1ZTJEzSfkDy7HQiRnt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Danila.Manturov/source/git&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Makefile Application.all">
+    <configuration name="FORCE" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="FORCE" CONFIG_NAME="FORCE" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GIT-BUILD-OPTIONS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="GIT-BUILD-OPTIONS" CONFIG_NAME="GIT-BUILD-OPTIONS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GIT-CFLAGS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="GIT-CFLAGS" CONFIG_NAME="GIT-CFLAGS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GIT-LDFLAGS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="GIT-LDFLAGS" CONFIG_NAME="GIT-LDFLAGS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GIT-PERL-DEFINES" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="GIT-PERL-DEFINES" CONFIG_NAME="GIT-PERL-DEFINES" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GIT-PERL-HEADER" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="GIT-PERL-HEADER" CONFIG_NAME="GIT-PERL-HEADER" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GIT-PREFIX" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="GIT-PREFIX" CONFIG_NAME="GIT-PREFIX" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GIT-PYTHON-VARS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="GIT-PYTHON-VARS" CONFIG_NAME="GIT-PYTHON-VARS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GIT-SCRIPT-DEFINES" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="GIT-SCRIPT-DEFINES" CONFIG_NAME="GIT-SCRIPT-DEFINES" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GIT-SPATCH-DEFINES" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="GIT-SPATCH-DEFINES" CONFIG_NAME="GIT-SPATCH-DEFINES" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GIT-TEST-SUITES" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="GIT-TEST-SUITES" CONFIG_NAME="GIT-TEST-SUITES" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GIT-USER-AGENT" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="GIT-USER-AGENT" CONFIG_NAME="GIT-USER-AGENT" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GIT-VERSION-FILE" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="GIT-VERSION-FILE" CONFIG_NAME="GIT-VERSION-FILE" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GIT-VERSION-GEN" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="GIT-VERSION-GEN" CONFIG_NAME="GIT-VERSION-GEN" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Makefile" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="Makefile" CONFIG_NAME="Makefile" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TAGS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="TAGS" CONFIG_NAME="TAGS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="all" CONFIG_NAME="all" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="artifacts-tar" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="artifacts-tar" CONFIG_NAME="artifacts-tar" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build-perl-script" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="build-perl-script" CONFIG_NAME="build-perl-script" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build-python-script" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="build-python-script" CONFIG_NAME="build-python-script" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build-sh-script" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="build-sh-script" CONFIG_NAME="build-sh-script" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build-unit-tests" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="build-unit-tests" CONFIG_NAME="build-unit-tests" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check-builtins" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="check-builtins" CONFIG_NAME="check-builtins" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check-docs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="check-docs" CONFIG_NAME="check-docs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check-pot" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="check-pot" CONFIG_NAME="check-pot" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check-sha1" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="check-sha1" CONFIG_NAME="check-sha1" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="check" CONFIG_NAME="check" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-perl-script" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="clean-perl-script" CONFIG_NAME="clean-perl-script" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-python-script" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="clean-python-script" CONFIG_NAME="clean-python-script" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-sh-script" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="clean-sh-script" CONFIG_NAME="clean-sh-script" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coccicheck-pending" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="coccicheck-pending" CONFIG_NAME="coccicheck-pending" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coccicheck-test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="coccicheck-test" CONFIG_NAME="coccicheck-test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coccicheck" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="coccicheck" CONFIG_NAME="coccicheck" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cocciclean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="cocciclean" CONFIG_NAME="cocciclean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="configure" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="configure" CONFIG_NAME="configure" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cover_db" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="cover_db" CONFIG_NAME="cover_db" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cover_db_html" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="cover_db_html" CONFIG_NAME="cover_db_html" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coverage-clean-results" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="coverage-clean-results" CONFIG_NAME="coverage-clean-results" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coverage-clean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="coverage-clean" CONFIG_NAME="coverage-clean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coverage-compile" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="coverage-compile" CONFIG_NAME="coverage-compile" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coverage-prove" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="coverage-prove" CONFIG_NAME="coverage-prove" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coverage-report" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="coverage-report" CONFIG_NAME="coverage-report" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coverage-test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="coverage-test" CONFIG_NAME="coverage-test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coverage-untested-functions" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="coverage-untested-functions" CONFIG_NAME="coverage-untested-functions" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coverage" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="coverage" CONFIG_NAME="coverage" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cscope" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="cscope" CONFIG_NAME="cscope" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dist-doc" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="dist-doc" CONFIG_NAME="dist-doc" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dist" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="dist" CONFIG_NAME="dist" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distclean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="distclean" CONFIG_NAME="distclean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doc" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="doc" CONFIG_NAME="doc" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fuzz-all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="fuzz-all" CONFIG_NAME="fuzz-all" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fuzz-objs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="fuzz-objs" CONFIG_NAME="fuzz-objs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generated-hdrs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="generated-hdrs" CONFIG_NAME="generated-hdrs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-add" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-add" CONFIG_NAME="git-add" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-am" CONFIG_NAME="git-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-annotate" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-annotate" CONFIG_NAME="git-annotate" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-apply" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-apply" CONFIG_NAME="git-apply" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-archimport" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-archimport" CONFIG_NAME="git-archimport" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-archive" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-archive" CONFIG_NAME="git-archive" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-backfill" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-backfill" CONFIG_NAME="git-backfill" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-bisect" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-bisect" CONFIG_NAME="git-bisect" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-blame" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-blame" CONFIG_NAME="git-blame" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-branch" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-branch" CONFIG_NAME="git-branch" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-bugreport" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-bugreport" CONFIG_NAME="git-bugreport" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-bundle" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-bundle" CONFIG_NAME="git-bundle" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-cat-file" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-cat-file" CONFIG_NAME="git-cat-file" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-check-attr" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-check-attr" CONFIG_NAME="git-check-attr" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-check-ignore" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-check-ignore" CONFIG_NAME="git-check-ignore" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-check-mailmap" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-check-mailmap" CONFIG_NAME="git-check-mailmap" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-check-ref-format" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-check-ref-format" CONFIG_NAME="git-check-ref-format" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-checkout--worker" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-checkout--worker" CONFIG_NAME="git-checkout--worker" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-checkout-index" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-checkout-index" CONFIG_NAME="git-checkout-index" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-checkout" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-checkout" CONFIG_NAME="git-checkout" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-cherry-pick" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-cherry-pick" CONFIG_NAME="git-cherry-pick" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-cherry" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-cherry" CONFIG_NAME="git-cherry" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-clean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-clean" CONFIG_NAME="git-clean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-clone" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-clone" CONFIG_NAME="git-clone" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-column" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-column" CONFIG_NAME="git-column" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-commit-graph" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-commit-graph" CONFIG_NAME="git-commit-graph" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-commit-tree" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-commit-tree" CONFIG_NAME="git-commit-tree" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-commit" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-commit" CONFIG_NAME="git-commit" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-config" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-config" CONFIG_NAME="git-config" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-count-objects" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-count-objects" CONFIG_NAME="git-count-objects" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-credential-cache--daemon" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-credential-cache--daemon" CONFIG_NAME="git-credential-cache--daemon" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-credential-cache" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-credential-cache" CONFIG_NAME="git-credential-cache" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-credential-store" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-credential-store" CONFIG_NAME="git-credential-store" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-credential" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-credential" CONFIG_NAME="git-credential" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-cvsexportcommit" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-cvsexportcommit" CONFIG_NAME="git-cvsexportcommit" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-cvsimport" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-cvsimport" CONFIG_NAME="git-cvsimport" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-cvsserver" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-cvsserver" CONFIG_NAME="git-cvsserver" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-daemon" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-daemon" CONFIG_NAME="git-daemon" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-describe" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-describe" CONFIG_NAME="git-describe" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-diagnose" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-diagnose" CONFIG_NAME="git-diagnose" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-diff-files" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-diff-files" CONFIG_NAME="git-diff-files" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-diff-index" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-diff-index" CONFIG_NAME="git-diff-index" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-diff-pairs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-diff-pairs" CONFIG_NAME="git-diff-pairs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-diff-tree" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-diff-tree" CONFIG_NAME="git-diff-tree" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-diff" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-diff" CONFIG_NAME="git-diff" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-difftool--helper" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-difftool--helper" CONFIG_NAME="git-difftool--helper" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-difftool" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-difftool" CONFIG_NAME="git-difftool" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-fast-export" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-fast-export" CONFIG_NAME="git-fast-export" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-fast-import" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-fast-import" CONFIG_NAME="git-fast-import" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-fetch-pack" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-fetch-pack" CONFIG_NAME="git-fetch-pack" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-fetch" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-fetch" CONFIG_NAME="git-fetch" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-filter-branch" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-filter-branch" CONFIG_NAME="git-filter-branch" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-fmt-merge-msg" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-fmt-merge-msg" CONFIG_NAME="git-fmt-merge-msg" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-for-each-ref" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-for-each-ref" CONFIG_NAME="git-for-each-ref" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-for-each-repo" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-for-each-repo" CONFIG_NAME="git-for-each-repo" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-format-patch" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-format-patch" CONFIG_NAME="git-format-patch" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-fsck-objects" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-fsck-objects" CONFIG_NAME="git-fsck-objects" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-fsck" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-fsck" CONFIG_NAME="git-fsck" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-fsmonitor--daemon" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-fsmonitor--daemon" CONFIG_NAME="git-fsmonitor--daemon" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-gc" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-gc" CONFIG_NAME="git-gc" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-get-tar-commit-id" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-get-tar-commit-id" CONFIG_NAME="git-get-tar-commit-id" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-grep" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-grep" CONFIG_NAME="git-grep" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-hash-object" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-hash-object" CONFIG_NAME="git-hash-object" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-help" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-help" CONFIG_NAME="git-help" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-hook" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-hook" CONFIG_NAME="git-hook" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-http-backend" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-http-backend" CONFIG_NAME="git-http-backend" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-http-fetch" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-http-fetch" CONFIG_NAME="git-http-fetch" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-http-push" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-http-push" CONFIG_NAME="git-http-push" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-imap-send" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-imap-send" CONFIG_NAME="git-imap-send" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-index-pack" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-index-pack" CONFIG_NAME="git-index-pack" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-init-db" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-init-db" CONFIG_NAME="git-init-db" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-init" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-init" CONFIG_NAME="git-init" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-instaweb" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-instaweb" CONFIG_NAME="git-instaweb" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-interpret-trailers" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-interpret-trailers" CONFIG_NAME="git-interpret-trailers" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-log" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-log" CONFIG_NAME="git-log" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-ls-files" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-ls-files" CONFIG_NAME="git-ls-files" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-ls-remote" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-ls-remote" CONFIG_NAME="git-ls-remote" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-ls-tree" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-ls-tree" CONFIG_NAME="git-ls-tree" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-mailinfo" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-mailinfo" CONFIG_NAME="git-mailinfo" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-mailsplit" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-mailsplit" CONFIG_NAME="git-mailsplit" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-maintenance" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-maintenance" CONFIG_NAME="git-maintenance" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-merge-base" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-merge-base" CONFIG_NAME="git-merge-base" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-merge-file" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-merge-file" CONFIG_NAME="git-merge-file" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-merge-index" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-merge-index" CONFIG_NAME="git-merge-index" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-merge-octopus" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-merge-octopus" CONFIG_NAME="git-merge-octopus" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-merge-one-file" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-merge-one-file" CONFIG_NAME="git-merge-one-file" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-merge-ours" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-merge-ours" CONFIG_NAME="git-merge-ours" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-merge-recursive" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-merge-recursive" CONFIG_NAME="git-merge-recursive" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-merge-resolve" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-merge-resolve" CONFIG_NAME="git-merge-resolve" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-merge-subtree" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-merge-subtree" CONFIG_NAME="git-merge-subtree" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-merge-tree" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-merge-tree" CONFIG_NAME="git-merge-tree" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-merge" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-merge" CONFIG_NAME="git-merge" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-mergetool--lib" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-mergetool--lib" CONFIG_NAME="git-mergetool--lib" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-mergetool" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-mergetool" CONFIG_NAME="git-mergetool" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-mktag" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-mktag" CONFIG_NAME="git-mktag" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-mktree" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-mktree" CONFIG_NAME="git-mktree" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-multi-pack-index" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-multi-pack-index" CONFIG_NAME="git-multi-pack-index" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-mv" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-mv" CONFIG_NAME="git-mv" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-name-rev" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-name-rev" CONFIG_NAME="git-name-rev" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-notes" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-notes" CONFIG_NAME="git-notes" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-objs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-objs" CONFIG_NAME="git-objs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-p4" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-p4" CONFIG_NAME="git-p4" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-pack-objects" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-pack-objects" CONFIG_NAME="git-pack-objects" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-pack-redundant" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-pack-redundant" CONFIG_NAME="git-pack-redundant" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-pack-refs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-pack-refs" CONFIG_NAME="git-pack-refs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-patch-id" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-patch-id" CONFIG_NAME="git-patch-id" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-prune-packed" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-prune-packed" CONFIG_NAME="git-prune-packed" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-prune" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-prune" CONFIG_NAME="git-prune" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-pull" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-pull" CONFIG_NAME="git-pull" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-push" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-push" CONFIG_NAME="git-push" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-quiltimport" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-quiltimport" CONFIG_NAME="git-quiltimport" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-range-diff" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-range-diff" CONFIG_NAME="git-range-diff" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-read-tree" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-read-tree" CONFIG_NAME="git-read-tree" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-rebase" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-rebase" CONFIG_NAME="git-rebase" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-receive-pack" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-receive-pack" CONFIG_NAME="git-receive-pack" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-reflog" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-reflog" CONFIG_NAME="git-reflog" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-refs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-refs" CONFIG_NAME="git-refs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-remote-ext" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-remote-ext" CONFIG_NAME="git-remote-ext" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-remote-fd" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-remote-fd" CONFIG_NAME="git-remote-fd" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-remote-ftp" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-remote-ftp" CONFIG_NAME="git-remote-ftp" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-remote-ftps" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-remote-ftps" CONFIG_NAME="git-remote-ftps" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-remote-http" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-remote-http" CONFIG_NAME="git-remote-http" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-remote-https" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-remote-https" CONFIG_NAME="git-remote-https" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-remote" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-remote" CONFIG_NAME="git-remote" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-repack" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-repack" CONFIG_NAME="git-repack" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-replace" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-replace" CONFIG_NAME="git-replace" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-replay" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-replay" CONFIG_NAME="git-replay" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-request-pull" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-request-pull" CONFIG_NAME="git-request-pull" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-rerere" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-rerere" CONFIG_NAME="git-rerere" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-reset" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-reset" CONFIG_NAME="git-reset" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-restore" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-restore" CONFIG_NAME="git-restore" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-rev-list" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-rev-list" CONFIG_NAME="git-rev-list" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-rev-parse" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-rev-parse" CONFIG_NAME="git-rev-parse" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-revert" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-revert" CONFIG_NAME="git-revert" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-rm" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-rm" CONFIG_NAME="git-rm" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-send-email" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-send-email" CONFIG_NAME="git-send-email" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-send-pack" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-send-pack" CONFIG_NAME="git-send-pack" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-sh-i18n--envsubst" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-sh-i18n--envsubst" CONFIG_NAME="git-sh-i18n--envsubst" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-sh-i18n" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-sh-i18n" CONFIG_NAME="git-sh-i18n" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-sh-setup" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-sh-setup" CONFIG_NAME="git-sh-setup" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-shell" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-shell" CONFIG_NAME="git-shell" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-shortlog" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-shortlog" CONFIG_NAME="git-shortlog" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-show-branch" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-show-branch" CONFIG_NAME="git-show-branch" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-show-index" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-show-index" CONFIG_NAME="git-show-index" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-show-ref" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-show-ref" CONFIG_NAME="git-show-ref" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-show" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-show" CONFIG_NAME="git-show" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-sparse-checkout" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-sparse-checkout" CONFIG_NAME="git-sparse-checkout" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-stage" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-stage" CONFIG_NAME="git-stage" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-stash" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-stash" CONFIG_NAME="git-stash" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-status" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-status" CONFIG_NAME="git-status" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-stripspace" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-stripspace" CONFIG_NAME="git-stripspace" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-submodule--helper" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-submodule--helper" CONFIG_NAME="git-submodule--helper" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-submodule" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-submodule" CONFIG_NAME="git-submodule" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-svn" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-svn" CONFIG_NAME="git-svn" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-switch" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-switch" CONFIG_NAME="git-switch" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-symbolic-ref" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-symbolic-ref" CONFIG_NAME="git-symbolic-ref" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-tag" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-tag" CONFIG_NAME="git-tag" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-unpack-file" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-unpack-file" CONFIG_NAME="git-unpack-file" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-unpack-objects" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-unpack-objects" CONFIG_NAME="git-unpack-objects" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-update-index" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-update-index" CONFIG_NAME="git-update-index" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-update-ref" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-update-ref" CONFIG_NAME="git-update-ref" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-update-server-info" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-update-server-info" CONFIG_NAME="git-update-server-info" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-upload-archive" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-upload-archive" CONFIG_NAME="git-upload-archive" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-upload-pack" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-upload-pack" CONFIG_NAME="git-upload-pack" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-var" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-var" CONFIG_NAME="git-var" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-verify-commit" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-verify-commit" CONFIG_NAME="git-verify-commit" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-verify-pack" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-verify-pack" CONFIG_NAME="git-verify-pack" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-verify-tag" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-verify-tag" CONFIG_NAME="git-verify-tag" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-version" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-version" CONFIG_NAME="git-version" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-web--browse" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-web--browse" CONFIG_NAME="git-web--browse" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-whatchanged" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-whatchanged" CONFIG_NAME="git-whatchanged" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-worktree" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-worktree" CONFIG_NAME="git-worktree" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-write-tree" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git-write-tree" CONFIG_NAME="git-write-tree" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="git" CONFIG_NAME="git" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gitweb-clean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="gitweb-clean" CONFIG_NAME="gitweb-clean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gitweb" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="gitweb" CONFIG_NAME="gitweb" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hdr-check" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="hdr-check" CONFIG_NAME="hdr-check" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="headless-git" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="headless-git" CONFIG_NAME="headless-git" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="html" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="html" CONFIG_NAME="html" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="info" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="info" CONFIG_NAME="info" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-doc" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="install-doc" CONFIG_NAME="install-doc" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-gitweb" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="install-gitweb" CONFIG_NAME="install-gitweb" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-html" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="install-html" CONFIG_NAME="install-html" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-info" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="install-info" CONFIG_NAME="install-info" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-man-perl" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="install-man-perl" CONFIG_NAME="install-man-perl" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-man" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="install-man" CONFIG_NAME="install-man" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-pdf" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="install-pdf" CONFIG_NAME="install-pdf" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-perl-script" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="install-perl-script" CONFIG_NAME="install-perl-script" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-python-script" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="install-python-script" CONFIG_NAME="install-python-script" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-sh-script" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="install-sh-script" CONFIG_NAME="install-sh-script" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="install" CONFIG_NAME="install" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libgit-rs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="libgit-rs" CONFIG_NAME="libgit-rs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libgit-sys" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="libgit-sys" CONFIG_NAME="libgit-sys" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libgit.a" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="libgit.a" CONFIG_NAME="libgit.a" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="man-perl" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="man-perl" CONFIG_NAME="man-perl" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="man" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="man" CONFIG_NAME="man" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="objects" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="objects" CONFIG_NAME="objects" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pdf" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="pdf" CONFIG_NAME="pdf" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="perf" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="perf" CONFIG_NAME="perf" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="perllibdir" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="perllibdir" CONFIG_NAME="perllibdir" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="please_set_SHELL_PATH_to_a_more_modern_shell" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="please_set_SHELL_PATH_to_a_more_modern_shell" CONFIG_NAME="please_set_SHELL_PATH_to_a_more_modern_shell" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="po-init" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="po-init" CONFIG_NAME="po-init" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="po-update" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="po-update" CONFIG_NAME="po-update" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pot" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="pot" CONFIG_NAME="pot" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="profile-clean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="profile-clean" CONFIG_NAME="profile-clean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="profile-fast-install" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="profile-fast-install" CONFIG_NAME="profile-fast-install" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="profile-fast" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="profile-fast" CONFIG_NAME="profile-fast" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="profile-install" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="profile-install" CONFIG_NAME="profile-install" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="profile" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="profile" CONFIG_NAME="profile" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="program-objs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="program-objs" CONFIG_NAME="program-objs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quick-install-doc" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="quick-install-doc" CONFIG_NAME="quick-install-doc" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quick-install-html" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="quick-install-html" CONFIG_NAME="quick-install-html" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quick-install-man" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="quick-install-man" CONFIG_NAME="quick-install-man" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reconfigure" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="reconfigure" CONFIG_NAME="reconfigure" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rpm" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="rpm" CONFIG_NAME="rpm" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scalar-objs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="scalar-objs" CONFIG_NAME="scalar-objs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scalar" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="scalar" CONFIG_NAME="scalar" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shell_compatibility_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="shell_compatibility_test" CONFIG_NAME="shell_compatibility_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sparse" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="sparse" CONFIG_NAME="sparse" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="strip" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="strip" CONFIG_NAME="strip" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="style" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="style" CONFIG_NAME="style" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tags" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="tags" CONFIG_NAME="tags" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-objs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="test-objs" CONFIG_NAME="test-objs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="test" CONFIG_NAME="test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit-tests" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="unit-tests" CONFIG_NAME="unit-tests" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vcxproj" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="vcxproj" CONFIG_NAME="vcxproj" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xdiff-objs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="git" TARGET_NAME="xdiff-objs" CONFIG_NAME="xdiff-objs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Makefile Application.all" />
+      <item itemvalue="Makefile Application.artifacts-tar" />
+      <item itemvalue="Makefile Application.build-perl-script" />
+      <item itemvalue="Makefile Application.build-python-script" />
+      <item itemvalue="Makefile Application.build-sh-script" />
+      <item itemvalue="Makefile Application.build-unit-tests" />
+      <item itemvalue="Makefile Application.check" />
+      <item itemvalue="Makefile Application.check-docs" />
+      <item itemvalue="Makefile Application.check-pot" />
+      <item itemvalue="Makefile Application.clean-perl-script" />
+      <item itemvalue="Makefile Application.clean-python-script" />
+      <item itemvalue="Makefile Application.clean-sh-script" />
+      <item itemvalue="Makefile Application.coccicheck" />
+      <item itemvalue="Makefile Application.coccicheck-pending" />
+      <item itemvalue="Makefile Application.coccicheck-test" />
+      <item itemvalue="Makefile Application.cocciclean" />
+      <item itemvalue="Makefile Application.cover_db" />
+      <item itemvalue="Makefile Application.cover_db_html" />
+      <item itemvalue="Makefile Application.coverage" />
+      <item itemvalue="Makefile Application.coverage-clean" />
+      <item itemvalue="Makefile Application.coverage-clean-results" />
+      <item itemvalue="Makefile Application.coverage-compile" />
+      <item itemvalue="Makefile Application.coverage-report" />
+      <item itemvalue="Makefile Application.coverage-test" />
+      <item itemvalue="Makefile Application.coverage-untested-functions" />
+      <item itemvalue="Makefile Application.cscope" />
+      <item itemvalue="Makefile Application.dist-doc" />
+      <item itemvalue="Makefile Application.distclean" />
+      <item itemvalue="Makefile Application.doc" />
+      <item itemvalue="Makefile Application.FORCE" />
+      <item itemvalue="Makefile Application.fuzz-all" />
+      <item itemvalue="Makefile Application.fuzz-objs" />
+      <item itemvalue="Makefile Application.generated-hdrs" />
+      <item itemvalue="Makefile Application.git-objs" />
+      <item itemvalue="Makefile Application.gitweb" />
+      <item itemvalue="Makefile Application.gitweb-clean" />
+      <item itemvalue="Makefile Application.hdr-check" />
+      <item itemvalue="Makefile Application.html" />
+      <item itemvalue="Makefile Application.info" />
+      <item itemvalue="Makefile Application.install" />
+      <item itemvalue="Makefile Application.install-doc" />
+      <item itemvalue="Makefile Application.install-gitweb" />
+      <item itemvalue="Makefile Application.install-html" />
+      <item itemvalue="Makefile Application.install-info" />
+      <item itemvalue="Makefile Application.install-man" />
+      <item itemvalue="Makefile Application.install-man-perl" />
+      <item itemvalue="Makefile Application.install-pdf" />
+      <item itemvalue="Makefile Application.install-perl-script" />
+      <item itemvalue="Makefile Application.install-python-script" />
+      <item itemvalue="Makefile Application.install-sh-script" />
+      <item itemvalue="Makefile Application.libgit-rs" />
+      <item itemvalue="Makefile Application.libgit-sys" />
+      <item itemvalue="Makefile Application.man" />
+      <item itemvalue="Makefile Application.man-perl" />
+      <item itemvalue="Makefile Application.objects" />
+      <item itemvalue="Makefile Application.pdf" />
+      <item itemvalue="Makefile Application.perf" />
+      <item itemvalue="Makefile Application.perllibdir" />
+      <item itemvalue="Makefile Application.please_set_SHELL_PATH_to_a_more_modern_shell" />
+      <item itemvalue="Makefile Application.po-init" />
+      <item itemvalue="Makefile Application.po-update" />
+      <item itemvalue="Makefile Application.pot" />
+      <item itemvalue="Makefile Application.profile-clean" />
+      <item itemvalue="Makefile Application.profile-fast-install" />
+      <item itemvalue="Makefile Application.profile-install" />
+      <item itemvalue="Makefile Application.program-objs" />
+      <item itemvalue="Makefile Application.quick-install-doc" />
+      <item itemvalue="Makefile Application.quick-install-html" />
+      <item itemvalue="Makefile Application.quick-install-man" />
+      <item itemvalue="Makefile Application.reconfigure" />
+      <item itemvalue="Makefile Application.rpm" />
+      <item itemvalue="Makefile Application.scalar-objs" />
+      <item itemvalue="Makefile Application.shell_compatibility_test" />
+      <item itemvalue="Makefile Application.sparse" />
+      <item itemvalue="Makefile Application.strip" />
+      <item itemvalue="Makefile Application.style" />
+      <item itemvalue="Makefile Application.test" />
+      <item itemvalue="Makefile Application.test-objs" />
+      <item itemvalue="Makefile Application.unit-tests" />
+      <item itemvalue="Makefile Application.xdiff-objs" />
+      <item itemvalue="Makefile Application.check-builtins" />
+      <item itemvalue="Makefile Application.check-sha1" />
+      <item itemvalue="Makefile Application.configure" />
+      <item itemvalue="Makefile Application.coverage-prove" />
+      <item itemvalue="Makefile Application.dist" />
+      <item itemvalue="Makefile Application.git" />
+      <item itemvalue="Makefile Application.git-add" />
+      <item itemvalue="Makefile Application.git-am" />
+      <item itemvalue="Makefile Application.git-annotate" />
+      <item itemvalue="Makefile Application.git-apply" />
+      <item itemvalue="Makefile Application.git-archimport" />
+      <item itemvalue="Makefile Application.git-archive" />
+      <item itemvalue="Makefile Application.git-backfill" />
+      <item itemvalue="Makefile Application.git-bisect" />
+      <item itemvalue="Makefile Application.git-blame" />
+      <item itemvalue="Makefile Application.git-branch" />
+      <item itemvalue="Makefile Application.git-bugreport" />
+      <item itemvalue="Makefile Application.GIT-BUILD-OPTIONS" />
+      <item itemvalue="Makefile Application.git-bundle" />
+      <item itemvalue="Makefile Application.git-cat-file" />
+      <item itemvalue="Makefile Application.GIT-CFLAGS" />
+      <item itemvalue="Makefile Application.git-check-attr" />
+      <item itemvalue="Makefile Application.git-check-ignore" />
+      <item itemvalue="Makefile Application.git-check-mailmap" />
+      <item itemvalue="Makefile Application.git-check-ref-format" />
+      <item itemvalue="Makefile Application.git-checkout" />
+      <item itemvalue="Makefile Application.git-checkout--worker" />
+      <item itemvalue="Makefile Application.git-checkout-index" />
+      <item itemvalue="Makefile Application.git-cherry" />
+      <item itemvalue="Makefile Application.git-cherry-pick" />
+      <item itemvalue="Makefile Application.git-clean" />
+      <item itemvalue="Makefile Application.git-clone" />
+      <item itemvalue="Makefile Application.git-column" />
+      <item itemvalue="Makefile Application.git-commit" />
+      <item itemvalue="Makefile Application.git-commit-graph" />
+      <item itemvalue="Makefile Application.git-commit-tree" />
+      <item itemvalue="Makefile Application.git-config" />
+      <item itemvalue="Makefile Application.git-count-objects" />
+      <item itemvalue="Makefile Application.git-credential" />
+      <item itemvalue="Makefile Application.git-credential-cache" />
+      <item itemvalue="Makefile Application.git-credential-cache--daemon" />
+      <item itemvalue="Makefile Application.git-credential-store" />
+      <item itemvalue="Makefile Application.git-cvsexportcommit" />
+      <item itemvalue="Makefile Application.git-cvsimport" />
+      <item itemvalue="Makefile Application.git-cvsserver" />
+      <item itemvalue="Makefile Application.git-daemon" />
+      <item itemvalue="Makefile Application.git-describe" />
+      <item itemvalue="Makefile Application.git-diagnose" />
+      <item itemvalue="Makefile Application.git-diff" />
+      <item itemvalue="Makefile Application.git-diff-files" />
+      <item itemvalue="Makefile Application.git-diff-index" />
+      <item itemvalue="Makefile Application.git-diff-pairs" />
+      <item itemvalue="Makefile Application.git-diff-tree" />
+      <item itemvalue="Makefile Application.git-difftool" />
+      <item itemvalue="Makefile Application.git-difftool--helper" />
+      <item itemvalue="Makefile Application.git-fast-export" />
+      <item itemvalue="Makefile Application.git-fast-import" />
+      <item itemvalue="Makefile Application.git-fetch" />
+      <item itemvalue="Makefile Application.git-fetch-pack" />
+      <item itemvalue="Makefile Application.git-filter-branch" />
+      <item itemvalue="Makefile Application.git-fmt-merge-msg" />
+      <item itemvalue="Makefile Application.git-for-each-ref" />
+      <item itemvalue="Makefile Application.git-for-each-repo" />
+      <item itemvalue="Makefile Application.git-format-patch" />
+      <item itemvalue="Makefile Application.git-fsck" />
+      <item itemvalue="Makefile Application.git-fsck-objects" />
+      <item itemvalue="Makefile Application.git-fsmonitor--daemon" />
+      <item itemvalue="Makefile Application.git-gc" />
+      <item itemvalue="Makefile Application.git-get-tar-commit-id" />
+      <item itemvalue="Makefile Application.git-grep" />
+      <item itemvalue="Makefile Application.git-hash-object" />
+      <item itemvalue="Makefile Application.git-help" />
+      <item itemvalue="Makefile Application.git-hook" />
+      <item itemvalue="Makefile Application.git-http-backend" />
+      <item itemvalue="Makefile Application.git-http-fetch" />
+      <item itemvalue="Makefile Application.git-http-push" />
+      <item itemvalue="Makefile Application.git-imap-send" />
+      <item itemvalue="Makefile Application.git-index-pack" />
+      <item itemvalue="Makefile Application.git-init" />
+      <item itemvalue="Makefile Application.git-init-db" />
+      <item itemvalue="Makefile Application.git-instaweb" />
+      <item itemvalue="Makefile Application.git-interpret-trailers" />
+      <item itemvalue="Makefile Application.GIT-LDFLAGS" />
+      <item itemvalue="Makefile Application.git-log" />
+      <item itemvalue="Makefile Application.git-ls-files" />
+      <item itemvalue="Makefile Application.git-ls-remote" />
+      <item itemvalue="Makefile Application.git-ls-tree" />
+      <item itemvalue="Makefile Application.git-mailinfo" />
+      <item itemvalue="Makefile Application.git-mailsplit" />
+      <item itemvalue="Makefile Application.git-maintenance" />
+      <item itemvalue="Makefile Application.git-merge" />
+      <item itemvalue="Makefile Application.git-merge-base" />
+      <item itemvalue="Makefile Application.git-merge-file" />
+      <item itemvalue="Makefile Application.git-merge-index" />
+      <item itemvalue="Makefile Application.git-merge-octopus" />
+      <item itemvalue="Makefile Application.git-merge-one-file" />
+      <item itemvalue="Makefile Application.git-merge-ours" />
+      <item itemvalue="Makefile Application.git-merge-recursive" />
+      <item itemvalue="Makefile Application.git-merge-resolve" />
+      <item itemvalue="Makefile Application.git-merge-subtree" />
+      <item itemvalue="Makefile Application.git-merge-tree" />
+      <item itemvalue="Makefile Application.git-mergetool" />
+      <item itemvalue="Makefile Application.git-mergetool--lib" />
+      <item itemvalue="Makefile Application.git-mktag" />
+      <item itemvalue="Makefile Application.git-mktree" />
+      <item itemvalue="Makefile Application.git-multi-pack-index" />
+      <item itemvalue="Makefile Application.git-mv" />
+      <item itemvalue="Makefile Application.git-name-rev" />
+      <item itemvalue="Makefile Application.git-notes" />
+      <item itemvalue="Makefile Application.git-p4" />
+      <item itemvalue="Makefile Application.git-pack-objects" />
+      <item itemvalue="Makefile Application.git-pack-redundant" />
+      <item itemvalue="Makefile Application.git-pack-refs" />
+      <item itemvalue="Makefile Application.git-patch-id" />
+      <item itemvalue="Makefile Application.GIT-PERL-DEFINES" />
+      <item itemvalue="Makefile Application.GIT-PERL-HEADER" />
+      <item itemvalue="Makefile Application.GIT-PREFIX" />
+      <item itemvalue="Makefile Application.git-prune" />
+      <item itemvalue="Makefile Application.git-prune-packed" />
+      <item itemvalue="Makefile Application.git-pull" />
+      <item itemvalue="Makefile Application.git-push" />
+      <item itemvalue="Makefile Application.GIT-PYTHON-VARS" />
+      <item itemvalue="Makefile Application.git-quiltimport" />
+      <item itemvalue="Makefile Application.git-range-diff" />
+      <item itemvalue="Makefile Application.git-read-tree" />
+      <item itemvalue="Makefile Application.git-rebase" />
+      <item itemvalue="Makefile Application.git-receive-pack" />
+      <item itemvalue="Makefile Application.git-reflog" />
+      <item itemvalue="Makefile Application.git-refs" />
+      <item itemvalue="Makefile Application.git-remote" />
+      <item itemvalue="Makefile Application.git-remote-ext" />
+      <item itemvalue="Makefile Application.git-remote-fd" />
+      <item itemvalue="Makefile Application.git-remote-ftp" />
+      <item itemvalue="Makefile Application.git-remote-ftps" />
+      <item itemvalue="Makefile Application.git-remote-http" />
+      <item itemvalue="Makefile Application.git-remote-https" />
+      <item itemvalue="Makefile Application.git-repack" />
+      <item itemvalue="Makefile Application.git-replace" />
+      <item itemvalue="Makefile Application.git-replay" />
+      <item itemvalue="Makefile Application.git-request-pull" />
+      <item itemvalue="Makefile Application.git-rerere" />
+      <item itemvalue="Makefile Application.git-reset" />
+      <item itemvalue="Makefile Application.git-restore" />
+      <item itemvalue="Makefile Application.git-rev-list" />
+      <item itemvalue="Makefile Application.git-rev-parse" />
+      <item itemvalue="Makefile Application.git-revert" />
+      <item itemvalue="Makefile Application.git-rm" />
+      <item itemvalue="Makefile Application.GIT-SCRIPT-DEFINES" />
+      <item itemvalue="Makefile Application.git-send-email" />
+      <item itemvalue="Makefile Application.git-send-pack" />
+      <item itemvalue="Makefile Application.git-sh-i18n" />
+      <item itemvalue="Makefile Application.git-sh-i18n--envsubst" />
+      <item itemvalue="Makefile Application.git-sh-setup" />
+      <item itemvalue="Makefile Application.git-shell" />
+      <item itemvalue="Makefile Application.git-shortlog" />
+      <item itemvalue="Makefile Application.git-show" />
+      <item itemvalue="Makefile Application.git-show-branch" />
+      <item itemvalue="Makefile Application.git-show-index" />
+      <item itemvalue="Makefile Application.git-show-ref" />
+      <item itemvalue="Makefile Application.git-sparse-checkout" />
+      <item itemvalue="Makefile Application.GIT-SPATCH-DEFINES" />
+      <item itemvalue="Makefile Application.git-stage" />
+      <item itemvalue="Makefile Application.git-stash" />
+      <item itemvalue="Makefile Application.git-status" />
+      <item itemvalue="Makefile Application.git-stripspace" />
+      <item itemvalue="Makefile Application.git-submodule" />
+      <item itemvalue="Makefile Application.git-submodule--helper" />
+      <item itemvalue="Makefile Application.git-svn" />
+      <item itemvalue="Makefile Application.git-switch" />
+      <item itemvalue="Makefile Application.git-symbolic-ref" />
+      <item itemvalue="Makefile Application.git-tag" />
+      <item itemvalue="Makefile Application.GIT-TEST-SUITES" />
+      <item itemvalue="Makefile Application.git-unpack-file" />
+      <item itemvalue="Makefile Application.git-unpack-objects" />
+      <item itemvalue="Makefile Application.git-update-index" />
+      <item itemvalue="Makefile Application.git-update-ref" />
+      <item itemvalue="Makefile Application.git-update-server-info" />
+      <item itemvalue="Makefile Application.git-upload-archive" />
+      <item itemvalue="Makefile Application.git-upload-pack" />
+      <item itemvalue="Makefile Application.GIT-USER-AGENT" />
+      <item itemvalue="Makefile Application.git-var" />
+      <item itemvalue="Makefile Application.git-verify-commit" />
+      <item itemvalue="Makefile Application.git-verify-pack" />
+      <item itemvalue="Makefile Application.git-verify-tag" />
+      <item itemvalue="Makefile Application.git-version" />
+      <item itemvalue="Makefile Application.GIT-VERSION-FILE" />
+      <item itemvalue="Makefile Application.GIT-VERSION-GEN" />
+      <item itemvalue="Makefile Application.git-web--browse" />
+      <item itemvalue="Makefile Application.git-whatchanged" />
+      <item itemvalue="Makefile Application.git-worktree" />
+      <item itemvalue="Makefile Application.git-write-tree" />
+      <item itemvalue="Makefile Application.headless-git" />
+      <item itemvalue="Makefile Application.libgit.a" />
+      <item itemvalue="Makefile Application.Makefile" />
+      <item itemvalue="Makefile Application.profile" />
+      <item itemvalue="Makefile Application.profile-fast" />
+      <item itemvalue="Makefile Application.scalar" />
+      <item itemvalue="Makefile Application.TAGS" />
+      <item itemvalue="Makefile Application.tags" />
+      <item itemvalue="Makefile Application.vcxproj" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d38f63e4-c49a-46b1-a8bf-f1a9228b595c" name="Changes" comment="" />
+      <created>1670949729845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670949729845</updated>
+      <workItem from="1670949731718" duration="1042000" />
+      <workItem from="1670950883364" duration="3530000" />
+      <workItem from="1736382680322" duration="4915000" />
+      <workItem from="1739751247982" duration="1530000" />
+      <workItem from="1742155340410" duration="1092000" />
+      <workItem from="1742252203954" duration="5810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="false" />
+  </component>
+</project>

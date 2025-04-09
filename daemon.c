@@ -966,6 +966,7 @@ static struct credentials *prepare_credentials(const char *user_name,
 
 #else
 
+// other cred change
 struct credentials {
 	struct passwd *pass;
 	gid_t gid;
