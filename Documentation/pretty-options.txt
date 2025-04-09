@@ -46,3 +46,4 @@ is taken to be in `refs/notes/` if it is not qualified.
 	'core.notesRef' and 'notes.displayRef' variables (or
 	corresponding environment overrides).  Enabled by default.
 	See linkgit:git-config[1].
+AAAAA
